@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Pro\\Home_002\\Task_006\\Task_006.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Pro\\Home_002_Predefined_Сollections\\Task_006\\Task_006.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Pro\\Home_002\\Task_006\\Task_006.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Pro\\Home_002_Predefined_Сollections\\Task_006\\Task_006.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Pro\\Home_002\\Task_006\\Task_006.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Pro\\Home_002_Predefined_Сollections\\Task_006\\Task_006.csproj",
         "projectName": "Task_006",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Pro\\Home_002\\Task_006\\Task_006.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Pro\\Home_002_Predefined_Сollections\\Task_006\\Task_006.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Pro\\Home_002\\Task_006\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Pro\\Home_002_Predefined_Сollections\\Task_006\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9+nmykHeHyyypoJ6fCfq4ZkFpT+9862fwelDzW9pdwQ4/diGK3bKhvzsFuT1E/1cd1x7bCwqhkZsXQENqnu35A==",
+  "dgSpecHash": "GKgSxTqZItX5fkvcB2plFIO9L9aeoMgBYIS0k37/VqNxXuL9cZXohZ/WSf0M1ziD08wVR4MU3CzARMxkChsNKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Pro\\Home_002\\Task_003\\Task_003.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Pro\\Home_002_Predefined_Сollections\\Task_003\\Task_003.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
